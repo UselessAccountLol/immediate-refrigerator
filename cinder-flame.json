@@ -1,11 +1,11 @@
 {
-    "name": "Cinder & Flame",
-    "description": "Deep teal-black Cinder meets warm coral Flame. Dark and warm.",
+    "name": "alyssa-cinderflame-test",
+    "description": "fork of Cinder & Flame by Ace",
     "version": "1.4",
     "authors": [
         {
-            "name": "Ace",
-            "id": "1225921043559088138"
+            "name": "alyssa",
+            "id": "962766073663483914"
         }
     ],
     "semanticColors": {
